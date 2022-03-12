@@ -33,7 +33,7 @@ const MovieList = props => {
             setItems(response.results);
         }
         getList();
-    }, []);
+    }, );
 
     return (
         <div className="movie-list">
