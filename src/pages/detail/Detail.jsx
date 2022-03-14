@@ -47,7 +47,7 @@ const Detail = () => {
                                         ))
                                     }
                                 </div>
-                                <a className='botonNull' href='https://boring-meninsky-b1f39a.netlify.app/'><Button className='botonVer'>Ver ahora en stream play</Button></a>
+                                <a className='botonNull' href='https://boring-meninsky-b1f39a.netlify.app/Pricing'><Button className='botonVer'>Ver ahora en stream play</Button></a>
                                 
                                 <p className="overview">{item.overview}</p>
                                 
